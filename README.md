@@ -6,15 +6,6 @@ Welcome to my GitHub profile! I'm passionate about coding and software developme
 
 I'm a software engineer with experience in web development and data analysis. I enjoy working with Python, JavaScript, and various frameworks and libraries.
 
-## Projects
-
-Here are a few projects I've worked on:
-
-- [Project 1](https://github.com/bradleyrobinson/project1)
-- [Project 2](https://github.com/bradleyrobinson/project2)
-- [Project 3](https://github.com/bradleyrobinson/project3)
-
-Feel free to explore my repositories to see more of my work!
 
 ## Contact Me
 
